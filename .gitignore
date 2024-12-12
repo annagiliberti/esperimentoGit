@@ -1,0 +1,6 @@
+#Pycharm
+.idea/
+.venv/
+
+#MacOS
+.Ds_Store
